@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "avalicaoEscolar",
+            "projectName": "avalicaoEscolar",
+            "workingDirectory": "c:\\Users\\Aluno\\Documents\\j\\aula2\\avaliacao-Escolar",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "avalicaoEscolar",
+            "projectName": "avalicaoEscolar",
+            "workingDirectory": "c:\\Users\\Aluno\\Documents\\j\\aula2\\avaliacao-Escolar",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
